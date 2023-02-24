@@ -1,0 +1,25 @@
+#imag2 {
+
+    height: 75%;
+    width: 75%;
+  }
+
+  body
+  {
+    background-color:rgb(155, 180, 15);
+  }
+
+
+  #map {
+    height: 600px;
+}
+
+
+#btns
+{
+
+  margin: 5px;
+}
+
+
+
